@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Mashita
-- 👀 I’m interested in Website and Mobile development
+## 👋 Hi, I’m Mashita
+I’m interested in **Website and Mobile development**
+
 - 🌱 I’m currently learning ReactJS, Typescript, and Flutter
 - 💞️ I’m looking to collaborate on any Front-End and Mobile project
 
